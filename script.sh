@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ID профиля на Stepik: 972896775"
+echo "Мой ID профиля на stepik.org: 972896775"
