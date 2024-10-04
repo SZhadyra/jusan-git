@@ -56,4 +56,4 @@ int main() {
 | Почта     | [Ссылка](https://mail.google.com/mail/u/1) | 12 часов  |
 | LinkedIn  | [Ссылка](linked.in) | 5 часов   |
 | WhatsApp  | [Ссылка](87077057201) | 30 минут  |
-| Telegram  | [Ссылка](t.me/zhodr)     | 30 минут  |
+| Telegram  | [Ссылка](https://t.me/zhodr)     | 30 минут  |
