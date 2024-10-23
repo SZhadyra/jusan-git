@@ -4,3 +4,4 @@ Cкрипт username.sh выводит имя и фамилию на латин�
 !(/Users/user/Downloads)
 !(/Users/user/Downloads/jusan-logo.png
 )
+!(https://jusan.kz/_next/static/media/logo.98678c6f.png)
