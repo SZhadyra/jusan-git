@@ -1,0 +1,1 @@
+echo 'Zhadyra Srazhiddin'
