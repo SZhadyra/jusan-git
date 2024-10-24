@@ -1,2 +1,3 @@
-Данный репозиторий содержит скрипт для вывода моего ID на stepik.org
-ad2e4ce1d304da64df4ef17b3ceb02a3e4979075
+Cкрипт username.sh выводит имя и фамилию на латинском
+
+!(https://jusan.kz/_next/static/media/logo.98678c6f.png)
